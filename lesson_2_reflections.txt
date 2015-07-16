@@ -14,3 +14,9 @@ branches are helpful when creating a new feature that we need to prototype.  the
 
 How do the diagrams help you visualize the branch structure?
 remember everything needs a parent otherwise it can be lost!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+code is merged and brought to master
+
+because it was a branch that has been mergered
+
