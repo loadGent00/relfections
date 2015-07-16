@@ -11,3 +11,6 @@ only add certian files to the stating from working.  you can use diff to also ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 branches are helpful when creating a new feature that we need to prototype.  the branch for normal bugs could stay moving and my changes would not hurt the master branch.
+
+How do the diagrams help you visualize the branch structure?
+remember everything needs a parent otherwise it can be lost!
