@@ -20,3 +20,5 @@ code is merged and brought to master
 
 because it was a branch that has been mergered
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+quick and easy to read
