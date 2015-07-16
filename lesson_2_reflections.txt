@@ -5,3 +5,7 @@ creates meta data for git.  This is where version history and other information 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it tracks the commits you want to add to repo...allow to stage certain working dir stuff
+
+How can you use the staging area to make sure you have one commit per logical change?
+only add certian files to the stating from working.  you can use diff to also check those changes.
+
